@@ -64,15 +64,3 @@ function runFilter(){
         //Build new tabke based on filter values
         buildTable(UFOdata)
     }
-
-
-
-
-
-
-
-
-// function (UFOtable){
-
-
-// }
